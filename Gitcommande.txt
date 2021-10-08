@@ -1,0 +1,7 @@
+git add file.html (prepare one file)
+git add -A (prepare new file created)
+git commit -m 'message de changement'
+git push (upload files prepared)
+git branche namebranche (create espace separated for project for not updated project principale directly)
+git checkout namebranche (siwtch to the new project)
+git push --set-upstream origin namebranch (create this branche on github) 
